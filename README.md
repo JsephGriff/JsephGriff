@@ -17,5 +17,5 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=JsephGriff&icon=0&color=0)](https://visitcount.itsvg.in)
 
-My portfolio website
-[Portfolio](https://about.jsephgriff.me)<br/>
+My [portfolio](https://about.jsephgriff.me) website
+<br/>
