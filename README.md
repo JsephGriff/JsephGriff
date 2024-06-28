@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-🔭 I’m currently working on stuff<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with career advising<br>🌱 I’m currently learning computer science<br>💬 Ask me about my Australian shepherds<br>⚡ Fun fact: I weigh less than a single neutrino (trust me on this)
+🔭 I’m currently studying at the University of Washington<br>👯 I’m looking to collaborate on projects<br>🤝 I’m looking for help with career advising<br>🌱 I’m currently learning computer science<br>💬 Ask me about my Australian shepherds<br>
 
 
 ## 🌐 Socials:
